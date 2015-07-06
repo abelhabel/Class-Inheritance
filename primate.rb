@@ -1,0 +1,3 @@
+class Primate < Mammal
+  
+end
